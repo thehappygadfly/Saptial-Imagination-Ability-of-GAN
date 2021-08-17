@@ -1,1 +1,1 @@
-# single-image-reconstruction
+# Saptial-Imagination-Ability-of-GAN
