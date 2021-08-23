@@ -2,7 +2,7 @@
 
 
 Hi, I am Weijian.
-This model has two goals. The first goal is to generate multi-views of the same object. The second goal is to realize 3D re construction.
+This model has two goals. The first goal is to generate multi-views of the same object. The second goal is to realize 3D reconstruction.
 
 
 
